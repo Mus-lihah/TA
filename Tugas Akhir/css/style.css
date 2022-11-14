@@ -1,10 +1,14 @@
 body {
   background-image: url("../img/bookkk.jpg");
-  background-color: #52a8d0;
+  background-color: #1d6a8e;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+h2{
+  color: white;
 }
 
 .center {
@@ -15,6 +19,7 @@ body {
 #header {
   font-family: 'Righteous', sans-serif;
   font-size: 3rem;
+  color: white;
 }
 
 h2 {
